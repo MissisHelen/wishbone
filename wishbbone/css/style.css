@@ -1,0 +1,636 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand {
+    position: relative;
+    left: 9.458vw;
+    font-size: 1.5696vw;
+    font-weight: bold;
+    padding-top: 1.5vw;
+    padding-bottom: 1.2vw;
+}
+
+.nav-item {
+    padding-left: 1.3vw;
+    bottom: 0.2vw;
+    font-size: 1.01vw;
+    position: relative;
+    padding-top: 0.3vw;
+    left: 31.1vw;
+}
+
+.btn-1 {
+    position: relative;
+    left: 32.6vw;
+    bottom: 0.45vw;
+    margin-top: 1%;
+    margin-right: 11%;
+    background-color: #1B1A1A;
+    color: #FFFFFF;
+    padding: 0.7vw 1.6vw;
+    border-radius: 15px;
+}
+
+.btn:hover {
+    color: rgb(23, 196, 219);
+}
+
+.id {
+    background-color: #ECE7E4;
+    background-size: 50 vw;
+    font-family: 'Poppins', sans-serif;
+}
+
+.id h1 {
+    font-size: 1.25vw;
+    position: relative;
+    top: 9.5vw;
+    left: 6.2vw;
+}
+
+.id h2 {
+    font-size: 4.6vw;
+    position: relative;
+    top: 10.3vw;
+    left: 5.72vw;
+    line-height: 4.9vw;
+}
+
+.id p {
+    padding-bottom: 10.8vw;
+    font-size: 1.1vw;
+    position: relative;
+    top: 11.2vw;
+    left: 6.1vw;
+    line-height: 1.65vw;
+}
+
+.more {
+    font-size: 1.2vw;
+    position: relative;
+    left: 7.8vw;
+    letter-spacing: 0.01vw;
+}
+
+.id img {
+    height: 48.5vw;
+}
+
+.ourfirm {
+    margin: 6.5vw;
+}
+
+.ourfirm h1 {
+    font-family: 'Poppins';
+    position: relative;
+    font-size: 2.2vw;
+    left: 16vw;
+    top: 1.7vw;
+}
+
+.ourfirm p {
+    font-family: 'Poppins';
+    position: relative;
+    font-size: 1.12vw;
+    left: 5.7vw;
+    top: 2.1vw;
+    margin-bottom: 0.6vw;
+}
+
+.ourfirm img {
+    top: 2.7vw;
+    position: relative;
+    left: 5.9vw;
+    width: 5.7vw;
+}
+
+.ourfirm h3 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    position: relative;
+    font-size: 1.2vw;
+    font-weight: 400;
+    left: 13.7vw;
+    bottom: 1.3vw;
+}
+
+.ourfirm h4 {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    position: relative;
+    font-size: 1vw;
+    font-weight: 400;
+    left: 13.7vw;
+    bottom: 2vw;
+}
+
+.reeding {
+    background-image: url(../img/reeding.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 43vw;
+}
+
+.reeding h1 {
+    position: relative;
+    font-size: 1.1vw;
+    text-transform: uppercase;
+    top: 20vw;
+    margin-left: 74.96vw;
+    letter-spacing: 0.07vw;
+}
+
+.reeding p {
+    position: relative;
+    font-size: 1.1vw;
+    top: 19.5vw;
+    margin-left: 75.1vw;
+}
+
+.process {
+    padding-bottom: 17.3vw;
+}
+
+.process h1 {
+    letter-spacing: 0.15vw;
+    position: relative;
+    font-size: 1vw;
+    text-transform: uppercase;
+    margin-left: 45.05vw;
+    top: 6.9vw;
+}
+
+.process p {
+    font-size: 2.68vw;
+    position: relative;
+    margin-left: 33.5vw;
+    top: 6.8vw;
+}
+
+.sketching {
+    top: 8.6vw;
+    position: relative;
+    left: 17.6vw;
+    width: 8.3vw;
+}
+
+.process h3 {
+    top: 9.9vw;
+    margin-left: 18.6vw;
+    position: relative;
+    font-size: 1.27vw;
+}
+
+.process h4 {
+    text-align: center;
+    font-size: 1.03vw;
+    line-height: 1.64vw;
+    left: 5.9vw;
+    position: relative;
+    top: 9.9vw;
+}
+
+.finalizing {
+    top: 8.5vw;
+    position: relative;
+    left: 12.2vw;
+    width: 8vw;
+}
+
+.process h5 {
+    top: 9.7vw;
+    left: 13.4vw;
+    position: relative;
+    font-size: 1.27vw;
+}
+
+.process h6 {
+    text-align: center;
+    font-size: 1.03vw;
+    line-height: 1.64vw;
+    position: relative;
+    top: 9.9vw;
+}
+
+.building {
+    top: 8.9vw;
+    position: relative;
+    left: 6.6vw;
+    width: 8.1vw;
+}
+
+.build {
+    top: 10vw;
+    margin-left: 8.3vw;
+    position: relative;
+    font-size: 1.2vw;
+}
+
+.line {
+    margin-left: 2.6vw;
+    position: relative;
+    text-align: start;
+    top: 10.6vw;
+    font-size: 1.1vw;
+}
+
+.marble {
+    background-image: url(../img/marble.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 41.5vw;
+}
+
+.marble h1 {
+    position: relative;
+    font-size: 1.1vw;
+    text-transform: uppercase;
+    top: 18.3vw;
+    margin-left: 74.9vw;
+    letter-spacing: 0.07vw
+}
+
+.marble p {
+    position: relative;
+    font-size: 1.1vw;
+    top: 17.9vw;
+    margin-left: 75.16vw;
+}
+
+.clients {
+    height: 28.5vw;
+    background-color: rgba(64, 62, 59, 1);
+}
+
+.clients h1 {
+    text-transform: uppercase;
+    position: relative;
+    color: rgba(236, 231, 228, 1);
+    margin-left: 4.87vw;
+    font-size: 1.1vw;
+    top: 9.6vw;
+    line-height: 1vw;
+    letter-spacing: 0.08vw;
+}
+
+.clients h2 {
+    position: relative;
+    font-size: 2.2vw;
+    margin-left: 4.95vw;
+    position: relative;
+    text-align: start;
+    top: 9vw;
+    color: rgba(236, 231, 228, 1);
+}
+
+.clients p {
+    margin-left: 5vw;
+    position: relative;
+    text-align: start;
+    top: 9.3vw;
+    color: rgba(236, 231, 228, 1);
+    font-size: 1.05vw;
+    line-height: 1.7vw;
+}
+
+.hill {
+    top: 8.9vw;
+    position: relative;
+    left: 3vw;
+    width: 9vw;
+}
+
+.cai {
+    top: 14vw;
+    position: relative;
+    left: vw;
+    width: 9vw;
+    left: 3vw;
+}
+
+.riks {
+    top: 6.8vw;
+    position: relative;
+    left: 7.4vw;
+    width: 9.1vw;
+}
+
+.chill {
+    margin: 0vw 0vw 0vw 12vw;
+    top: 13.4vw;
+    position: relative;
+    left: vw;
+    width: 9vw;
+    right: 4.4vw;
+}
+
+.starcase {
+    background-image: url(../img/starcase.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 41.5vw;
+}
+
+.starcase h1 {
+    line-height: 1.9vw;
+    text-align: start;
+    position: relative;
+    font-size: 1.009vw;
+    text-transform: uppercase;
+    top: 18.2vw;
+    margin-left: 4.1vw;
+    letter-spacing: 0.1vw;
+}
+
+.starcase p {
+    text-align: start;
+    position: relative;
+    font-size: 1.1vw;
+    top: 17.5vw;
+    margin-left: 4.28vw;
+}
+
+.projects {
+    background-color: rgba(247, 247, 247, 1);
+    height: 64vw;
+}
+
+.projects h1 {
+    font-size: 2.7vw;
+    text-align: start;
+    position: relative;
+    padding-top: 8vw;
+}
+
+.projects p {
+    padding-bottom: 2vw;
+    position: relative;
+    font-size: 1.7vw;
+    text-align: start;
+    line-height: 2.2vw;
+    font-family: 'Poppins', sans-serif;
+}
+
+.white {
+    padding: 0vw 0vw 5vw 0vw;
+    height: 36.6vw;
+}
+
+.color {
+    padding: 0vw 0vw 5vw 2vw;
+    margin-left: 2vw;
+    height: 36.6vw;
+}
+
+.circle {
+    margin-left: 4vw;
+    padding: 0vw 0vw 5vw 4vw;
+    position: relative;
+    height: 36.6vw;
+}
+
+.projects h3 {
+    margin-left: 6.8vw;
+    position: relative;
+    font-size: 1vw;
+    text-transform: uppercase;
+    letter-spacing: 0.13vw;
+    bottom: 33.5vw;
+}
+
+.projects h4 {
+    margin-left: 6.8vw;
+    position: relative;
+    font-size: 1.57vw;
+    bottom: 34vw;
+}
+
+.btn2 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(27, 26, 26);
+    font-size: 1.35vw;
+    position: relative;
+    border-radius: 12px;
+    bottom: 33%;
+    margin-left: 30%;
+    padding: 0.5vw 0.7vw;
+}
+
+.projects h2 {
+    text-align: center;
+    position: relative;
+    font-size: 1.2vw;
+    bottom: 8.8vw;
+    margin-left: 0.8vw;
+}
+
+.btn2:hover {
+    color: rgb(224, 171, 57);
+}
+
+.team {
+    height: 40.7vw;
+}
+
+.team h1 {
+    padding-top: 6.6vw;
+    font-size: 2.2vw;
+    margin-left: 10.4vw;
+    font-family: 'Poppins';
+}
+
+.team h2 {
+    font-family: 'Poppins';
+    font-size: 1.03vw;
+    text-align: start;
+    line-height: 1.67vw;
+    padding-bottom: vw;
+    padding-top: 0.4vw;
+    margin-left: 10.5vw;
+    padding-bottom: 2.3vw;
+}
+
+.team span {
+    text-align: start;
+    margin-left: 12.2vw;
+    font-size: 1.2vw;
+}
+
+.collier {
+    height: 6vw;
+    margin-top: 7.2vw;
+    margin-left: -5.2vw;
+}
+
+.team h3 {
+    text-transform: capitalize;
+    margin-top: -4.4vw;
+    font-size: 1.2vw;
+    margin-left: 2.8vw;
+}
+
+.team h4 {
+    font-size: 1.0vw;
+    margin-top: -0.6vw;
+    margin-left: 2.8vw;
+}
+
+.wonder {
+    height: 6vw;
+    margin-top: 4.6vw;
+    margin-left: -5.2vw;
+}
+
+.team h5 {
+    text-transform: capitalize;
+    margin-top: -4.4vw;
+    font-size: 1.2vw;
+    margin-left: 2.8vw;
+}
+
+.team h6 {
+    font-size: 1.0vw;
+    margin-top: -0.6vw;
+    margin-left: 2.8vw;
+}
+
+.ferry {
+    height: 6vw;
+    margin-top: 4.4vw;
+    margin-left: -5.2vw;
+}
+
+.niko {
+    text-transform: capitalize;
+    margin-top: -4.2vw;
+    font-size: 1.2vw;
+    margin-left: 2.8vw;
+}
+
+.partner {
+    font-size: 1.0vw;
+    margin-top: -0.6vw;
+    margin-left: 2.8vw;
+}
+
+.peters {
+    height: 6vw;
+    margin-top: 6.95vw;
+    margin-left: -2.6vw;
+}
+
+.nolan {
+    text-transform: capitalize;
+    margin-top: -4.2vw;
+    font-size: 1.2vw;
+    margin-left: 5.58vw;
+}
+
+.associate {
+    font-size: 1.0vw;
+    margin-top: -0.6vw;
+    margin-left: 5.49vw;
+}
+
+.stone {
+    height: 6vw;
+    margin-top: 4.95vw;
+    margin-left: -2.6vw;
+}
+
+.aria {
+    text-transform: capitalize;
+    margin-top: -4.2vw;
+    font-size: 1.2vw;
+    margin-left: 5.58vw;
+}
+
+.woman {
+    font-size: 1.0vw;
+    margin-top: -0.6vw;
+    margin-left: 5.49vw;
+}
+
+.touch {
+    background-color: rgba(206, 196, 188, 1);
+    height: 21.9vw;
+}
+
+.touch h1 {
+    font-family: 'Poppins';
+    font-size: 1vw;
+    padding-top: 7vw;
+    text-transform: uppercase;
+    letter-spacing: 0.15vw;
+    margin-left: 9.4vw;
+}
+
+.touch h2 {
+    margin-left: 9.35vw;
+    font-size: 2.75vw;
+    margin-top: -1.2vw;
+}
+
+.btn-3 {
+    font-size: 1.2vw;
+    position: relative;
+    margin-left: 80.14vw;
+    bottom: 5.3vw;
+    background-color: rgba(206, 196, 188, 1);
+    padding: 0.7vw 1.6vw;
+    border: coral;
+}
+
+.btn-3:hover {
+    color: rgb(138, 70, 201);
+}
+
+.footer {
+    height: 14vw;
+}
+
+.footer h1 {
+    margin-left: 8.38vw;
+    font-weight: 400;
+    color: #1B1A1A;
+    font-size: 1.9vw;
+    padding-top: 4vw;
+}
+
+.footer h2 {
+    line-height: 0.8vw;
+    font-size: 1vw;
+    margin-left: 8.7vw;
+    padding-top: 0.4vw;
+}
+
+.footer p {
+    margin-left: 8.76vw;
+    font-size: 1vw;
+}
+
+.twitter {
+    position: relative;
+    height: 1.7vw;
+    top: 6.7vw;
+    margin-left: 39.6vw;
+}
+
+.instagram {
+    padding-left: 2vw;
+    padding-right: 2vw;
+    position: relative;
+    height: 1.7vw;
+    top: 6.7vw;
+}
+
+.facebook {
+    position: relative;
+    height: 1.7vw;
+    top: 6.7vw;
+}
